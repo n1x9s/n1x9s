@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Nikita </h1>
-<h3 align="center"></h3>
+<h3 align="center">Backend Python Developer</h3>
+
+
 
 [![codewars](https://www.codewars.com/users/n1x9s/badges/small)](https://www.codewars.com/users/n1x9s)  
 
