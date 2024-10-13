@@ -3,7 +3,9 @@
 
 
 
-[![codewars](https://www.codewars.com/users/n1x9s/badges/small)](https://www.codewars.com/users/n1x9s)  
+[![codewars](https://www.codewars.com/users/n1x9s/badges/small)](https://www.codewars.com/users/n1x9s)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1x9s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 My stack: **Python, Django, DRF, FastAPI, PostgreSQL, Docker**
