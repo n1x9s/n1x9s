@@ -10,6 +10,8 @@
 
 - 🌱 My stack: **Python, Django, DRF, FastAPI, PostgreSQL, Docker**
 
+- 🧠 Currently learning: **Golang**
+
 - 📫 How to reach me **spl1ntero@yandex.ru**
 
 - 🌍 I speak Russian (native), English (B1)
