@@ -10,7 +10,7 @@
 
 - 🌱 My stack: **Python, Django, DRF, FastAPI, PostgreSQL, Docker**
 
-- 🧠 Currently learning: **TypeScript**
+- 🧠 Currently learning: **JavaScript**
 
 - 📫 How to reach me **spl1ntero@yandex.ru**
 
