@@ -1,6 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=9C89E9&random=false&width=435&lines=back-end+developer" alt="Typing SVG" /></a></h1>
 # 💫 About Me:
-I'm Nikita, backend developer
+<ul>
+  <li>ɪ'ᴍ 20 ʏ.ᴏ.</li>
+  <li>ᴍᴏsᴄᴏᴡ, ʀᴜssɪᴀ</li>
+  <li>software engineer</li>
+</ul>
 
 
 ## 🌐 Socials:
