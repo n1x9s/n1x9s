@@ -1,3 +1,4 @@
+<h1 align="left">ʜɪ ᴛʜᴇʀᴇ, ɪ'ᴍ <a background="#FF8BC8" href="https://t.me/n1x9s" target="_blank">ɴɪᴋ</a> <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=9C89E9&random=false&width=435&lines=back-end+developer" alt="Typing SVG" /></a></h1>
 # 💫 About Me:
 <ul>
