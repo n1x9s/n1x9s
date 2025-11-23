@@ -101,8 +101,7 @@ me.say_hi()
 ## 💼 Current Projects
 
 🔹 **Continental Custom** - Delivery platform with Telegram Mini App  
-🔹 **Butter Club** - E-commerce platform for butter products  
-🔹 **Microservices Migration** - Transforming monolithic apps to scalable architecture  
+🔹 **Butter Club** - E-commerce platform for butter products    
 
 <br/>
 
