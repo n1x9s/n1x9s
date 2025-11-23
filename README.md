@@ -76,8 +76,12 @@ me.say_hi()
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=n1x9s&theme=tokyonight&hide_border=true&background=0D1117&ring=a177ff&fire=a177ff&currStreakLabel=a177ff" alt="GitHub Streak" />
 </p>
 
+<br/>
+
+## 💻 Language Analytics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1x9s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a177ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img src="./assets/languages_donut.svg" alt="Language Stats" />
 </p>
 
 <br/>
@@ -101,7 +105,8 @@ me.say_hi()
 ## 💼 Current Projects
 
 🔹 **Continental Custom** - Delivery platform with Telegram Mini App  
-🔹 **Butter Club** - E-commerce platform for butter products    
+🔹 **Butter Club** - E-commerce platform for butter products  
+🔹 **Microservices Migration** - Transforming monolithic apps to scalable architecture  
 
 <br/>
 
