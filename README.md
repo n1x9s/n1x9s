@@ -1,21 +1,124 @@
-<h1 align="left">ʜɪ ᴛʜᴇʀᴇ, ɪ'ᴍ <a background="#FF8BC8" href="https://t.me/n1x9s" target="_blank">ɴɪᴋ</a> <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4593F8&width=435&lines=back-end+developer" alt="Typing SVG" /></a></h1>
-<h2>💫ᴀʙᴏᴜᴛ ᴍᴇ</h2>
-<ul>
-  <li>ɪ'ᴍ 20 ʏ.ᴏ.</li>
-  <li>ᴍᴏsᴄᴏᴡ, ʀᴜssɪᴀ</li>
-  <li>software engineer</li>
-</ul>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FFFF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Nikita;Backend+Developer+%7C+Software+Engineer;Building+scalable+systems+with+Python" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <a href="https://t.me/n1x9s"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://instagram.com/n1x9s"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/n1x9s"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/n1x9s"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n1x9s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n1x9s) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sernekit77) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/n1x9s) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=n1x9s&label=Profile%20views&color=a177ff&style=for-the-badge" alt="Profile views" />
+</p>
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<br/>
 
+## 🚀 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=n1x9s&icon=0&color=0)](https://visitcount.itsvg.in)
+```python
+class BackendDeveloper:
+    def __init__(self):
+        self.name = "Nikita"
+        self.age = 20
+        self.location = "Moscow, Russia 🇷🇺"
+        self.role = "Software Engineer"
+        self.current_focus = ["FastAPI", "PostgreSQL", "Kubernetes"]
+        self.interests = ["Microservices", "DevOps", "Embedded Systems"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+me = BackendDeveloper()
+me.say_hi()
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎯 Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔧 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=n1x9s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a177ff&icon_color=a177ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=n1x9s&theme=tokyonight&hide_border=true&background=0D1117&ring=a177ff&fire=a177ff&currStreakLabel=a177ff" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1x9s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a177ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</p>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=n1x9s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1x9s&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a177ff&line=a177ff&point=c9d1d9" alt="Contribution Graph" />
+</p>
+
+<br/>
+
+## 💼 Current Projects
+
+🔹 **Continental Custom** - Delivery platform with Telegram Mini App  
+🔹 **Butter Club** - E-commerce platform for butter products  
+🔹 **Microservices Migration** - Transforming monolithic apps to scalable architecture  
+
+<br/>
+
+## 🎯 2025 Goals
+
+- 🚀 Master Kubernetes and cloud-native technologies
+- 🏗️ Build production-grade microservices
+- 🤝 Contribute to open-source projects
+- 📚 Share knowledge through technical writing
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/n1x9s">n1x9s</a> with 💜</i>
+</p>
