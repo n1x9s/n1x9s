@@ -1,122 +1,249 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FFFF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Nikita;Backend+Developer+%7C+Software+Engineer;Building+scalable+systems+with+Python" alt="Typing SVG" />
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
 <p align="center">
-  <a href="https://t.me/n1x9s"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://instagram.com/n1x9s"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/n1x9s"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/n1x9s"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%F0%9F%94%A5+Hey%2C+I'm+Nikita;Backend+Developer+%7C+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=n1x9s&label=Profile%20views&color=a177ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=500&color=FF4444&center=true&vCenter=true&width=600&lines=Building+scalable+systems+with+Python;Passionate+about+microservices+%26+DevOps;Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
 
-<br/>
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://t.me/n1x9s"><img src="https://img.shields.io/badge/Telegram-DC143C?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://instagram.com/n1x9s"><img src="https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/n1x9s"><img src="https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/n1x9s"><img src="https://img.shields.io/badge/X-DC143C?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=n1x9s&label=Profile%20Views&color=DC143C&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/n1x9s?label=Followers&style=for-the-badge&color=DC143C" alt="Followers"/>
+</p>
+
+<!-- About Me Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+</h2>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ```python
-class BackendDeveloper:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Nikita"
         self.age = 20
-        self.location = "Moscow, Russia 🇷🇺"
-        self.role = "Software Engineer"
-        self.current_focus = ["FastAPI", "PostgreSQL", "Kubernetes"]
-        self.interests = ["Microservices", "DevOps", "Embedded Systems"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        self.location = "Moscow, Russia"
+        self.role = "Backend Developer"
 
-me = BackendDeveloper()
+    @property
+    def skills(self):
+        return {
+            "languages": ["Python", "Go", "C++", "JS"],
+            "frameworks": ["FastAPI", "Django", "Flask"],
+            "databases": ["PostgreSQL", "Redis", "SQLite"],
+            "devops": ["Docker", "K8s", "Nginx", "Linux"],
+            "currently_learning": ["Kubernetes", "gRPC"]
+        }
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build"
+              " something amazing together!")
+
+me = SoftwareEngineer()
 me.say_hi()
 ```
 
-<br/>
+<br clear="both"/>
 
-## 🛠️ Tech Stack
+<!-- Tech Stack Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+</h2>
 
-### 🎯 Backend & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
+      <br><b>Go</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br><b>C++</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br><b>Docker</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="K8s" width="65" height="65" />
+      <br><b>Kubernetes</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+      <br><b>FastAPI</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django" />
+      <br><b>Django</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
+      <br><b>Flask</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+      <br><b>Redis</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
+      <br><b>Nginx</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <br><b>Linux</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br><b>GitHub</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <br><b>Postman</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
+      <br><b>SQLite</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
+      <br><b>Bash</b>
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<!-- GitHub Stats Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<br/>
-
-## 📊 GitHub Stats
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
+</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=n1x9s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a177ff&icon_color=a177ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=n1x9s&theme=tokyonight&hide_border=true&background=0D1117&ring=a177ff&fire=a177ff&currStreakLabel=a177ff" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=n1x9s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&ring_color=DC143C" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=n1x9s&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=FF4444&currStreakLabel=DC143C&sideNums=FF4444&currStreakNum=FF4444&dates=c9d1d9&sideLabels=DC143C" alt="GitHub Streak" />
 </p>
 
-<br/>
+<!-- Language Analytics Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Language Analytics
+<h2 align="center">
+  <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> Language Analytics
+</h2>
 
 <p align="center">
   <img src="./assets/languages_donut.svg" alt="Language Stats" />
 </p>
 
-<br/>
+<!-- Activity Graph Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1x9s&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a177ff&line=a177ff&point=c9d1d9" alt="Contribution Graph" />
-</p>
-
-<br/>
-
-## 💼 Current Projects
-
-🔹 **Continental Custom** - Delivery platform with Telegram Mini App  
-🔹 **Butter Club** - E-commerce platform for butter products  
-🔹 **Microservices Migration** - Transforming monolithic apps to scalable architecture  
-
-<br/>
-
-## 🎯 2025 Goals
-
-- 🚀 Master Kubernetes and cloud-native technologies
-- 🏗️ Build production-grade microservices
-- 🤝 Contribute to open-source projects
-- 📚 Share knowledge through technical writing
-
-<br/>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30"> Contribution Graph
+</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1x9s&theme=redical&hide_border=true&bg_color=0D1117&color=DC143C&line=FF4444&point=FFFFFF&area=true&area_color=DC143C" alt="Contribution Graph" />
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+<!-- Projects Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Current Projects
+</h2>
+
+<div align="center">
+
+| Project | Description | Tech |
+|:-------:|:-----------:|:----:|
+| **Continental Custom** | Delivery platform with Telegram Mini App | `Python` `FastAPI` `TMA` |
+| **Butter Club** | E-commerce platform for products | `Django` `PostgreSQL` `Redis` |
+| **Microservices Migration** | Transforming monolithic apps | `Docker` `K8s` `gRPC` |
+
+</div>
+
+<!-- Goals Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> 2025 Goals
+</h2>
+
+<div align="center">
+
+```diff
++ Master Kubernetes and cloud-native technologies
++ Build production-grade microservices
++ Contribute to open-source projects
++ Share knowledge through technical writing
+```
+
+</div>
+
+<!-- Quote Section -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote"/>
+</p>
+
+<!-- Footer -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Let's+connect+and+build+together!" alt="Footer Typing SVG" />
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/n1x9s">n1x9s</a> with 💜</i>
+  <a href="https://github.com/n1x9s">
+    <img src="https://img.shields.io/badge/Made%20with-Love-DC143C?style=for-the-badge&logo=heart&logoColor=white" alt="Made with Love"/>
+  </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
