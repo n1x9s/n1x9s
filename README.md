@@ -69,86 +69,44 @@ me.say_hi()
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 </h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
-      <br><b>Go</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br><b>C++</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="K8s" width="65" height="65" />
-      <br><b>Kubernetes</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
-      <br><b>FastAPI</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django" />
-      <br><b>Django</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
-      <br><b>Flask</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-      <br><b>PostgreSQL</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-      <br><b>Redis</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
-      <br><b>Nginx</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-      <br><b>Linux</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br><b>GitHub</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-      <br><b>Postman</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
-      <br><b>SQLite</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
-      <br><b>Bash</b>
-    </td>
-  </tr>
-</table>
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-DC143C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-DC143C?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/C++-DC143C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+</p>
+
+<h3 align="center">Backend & Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-DC143C?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-DC143C?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-DC143C?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django_REST-DC143C?style=for-the-badge&logo=django&logoColor=white" alt="DRF"/>
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-DC143C?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC143C?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/SQLite-DC143C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-DC143C?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-DC143C?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Nginx-DC143C?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Linux-DC143C?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+</p>
+
+<h3 align="center">Tools & Others</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-DC143C?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-DC143C?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Bash-DC143C?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
 
 <!-- GitHub Stats Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -204,9 +162,9 @@ me.say_hi()
 
 | Project | Description | Tech |
 |:-------:|:-----------:|:----:|
-| **Continental Custom** | Delivery platform with Telegram Mini App | `Python` `FastAPI` `TMA` |
-| **Butter Club** | E-commerce platform for products | `Django` `PostgreSQL` `Redis` |
-| **Microservices Migration** | Transforming monolithic apps | `Docker` `K8s` `gRPC` |
+| **Continental Custom** | Delivery platform with Telegram Mini App | ![Python](https://img.shields.io/badge/Python-DC143C?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white) |
+| **Butter Club** | E-commerce platform for products | ![Django](https://img.shields.io/badge/Django-DC143C?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DC143C?style=flat-square&logo=postgresql&logoColor=white) |
+| **Microservices Migration** | Transforming monolithic apps | ![Docker](https://img.shields.io/badge/Docker-DC143C?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/K8s-DC143C?style=flat-square&logo=kubernetes&logoColor=white) |
 
 </div>
 
