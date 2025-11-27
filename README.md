@@ -145,9 +145,9 @@ me.say_hi()
 <!-- Snake Animation -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n1x9s/n1x9s/output/github-snake-red.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n1x9s/n1x9s/output/github-snake-red.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/n1x9s/n1x9s/output/github-snake-red.svg">
   </picture>
 </p>
 
