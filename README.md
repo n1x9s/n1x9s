@@ -175,16 +175,12 @@ me.say_hi()
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> 2025 Goals
 </h2>
 
-<div align="center">
-
-```diff
-+ Master Kubernetes and cloud-native technologies
-+ Build production-grade microservices
-+ Contribute to open-source projects
-+ Share knowledge through technical writing
-```
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Master_Kubernetes_and_cloud--native_technologies-DC143C?style=for-the-badge" alt="Goal 1"/><br><br>
+  <img src="https://img.shields.io/badge/Build_production--grade_microservices-DC143C?style=for-the-badge" alt="Goal 2"/><br><br>
+  <img src="https://img.shields.io/badge/Contribute_to_open--source_projects-DC143C?style=for-the-badge" alt="Goal 3"/><br><br>
+  <img src="https://img.shields.io/badge/Share_knowledge_through_technical_writing-DC143C?style=for-the-badge" alt="Goal 4"/>
+</p>
 
 <!-- Quote Section -->
 <p align="center">
