@@ -176,10 +176,8 @@ me.say_hi()
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Master_Kubernetes_and_cloud--native_technologies-DC143C?style=for-the-badge" alt="Goal 1"/><br><br>
-  <img src="https://img.shields.io/badge/Build_production--grade_microservices-DC143C?style=for-the-badge" alt="Goal 2"/><br><br>
-  <img src="https://img.shields.io/badge/Contribute_to_open--source_projects-DC143C?style=for-the-badge" alt="Goal 3"/><br><br>
-  <img src="https://img.shields.io/badge/Share_knowledge_through_technical_writing-DC143C?style=for-the-badge" alt="Goal 4"/>
+  <img src="https://img.shields.io/badge/Build_production--grade_microservices-DC143C?style=for-the-badge" alt="Goal 1"/><br><br>
+  <img src="https://img.shields.io/badge/Contribute_to_open--source_projects-DC143C?style=for-the-badge" alt="Goal 2"/><br><br>
 </p>
 
 <!-- Quote Section -->
