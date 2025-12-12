@@ -56,7 +56,7 @@
   
             <circle cx='450' cy='300' r='200' fill='none' stroke='#A177FF' stroke-width='54'
                     stroke-linecap='round'
-                    stroke-dasharray='489.031 1256.637'
+                    stroke-dasharray='373.938 1256.637'
                     stroke-dashoffset='0.000'
                     opacity='0.3' filter='url(#glow)' />
 
@@ -64,38 +64,38 @@
   
         <circle cx='450' cy='300' r='200' fill='none' stroke='#A177FF' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='489.031 1256.637'
+                stroke-dasharray='373.938 1256.637'
                 stroke-dashoffset='0.000'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#3B82F6' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='340.332 1256.637'
-                stroke-dashoffset='-495.315'
+                stroke-dasharray='357.855 1256.637'
+                stroke-dashoffset='-380.221'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#10B981' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='240.559 1256.637'
-                stroke-dashoffset='-841.930'
+                stroke-dasharray='187.083 1256.637'
+                stroke-dashoffset='-744.359'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#F59E0B' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='89.269 1256.637'
-                stroke-dashoffset='-1088.772'
+                stroke-dasharray='180.964 1256.637'
+                stroke-dashoffset='-937.725'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#EF4444' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='53.086 1256.637'
-                stroke-dashoffset='-1184.324'
+                stroke-dasharray='68.169 1256.637'
+                stroke-dashoffset='-1124.972'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#EC4899' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='1.509 1256.637'
-                stroke-dashoffset='-1243.693'
+                stroke-dasharray='37.363 1256.637'
+                stroke-dashoffset='-1199.425'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#8B5CF6' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='0.000 1256.637'
-                stroke-dashoffset='-1251.485'
+                stroke-dasharray='7.283 1256.637'
+                stroke-dashoffset='-1243.071'
                 opacity='0.9' />
 
   <!-- Внутренний круг с градиентом -->
@@ -117,7 +117,7 @@
     <text x='0' y='35' text-anchor='middle' font-size='16' font-weight='400'
           font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
           fill='#8B949E' opacity='0.6'>
-      8 languages tracked
+      12 languages tracked
     </text>
   </g>
 
@@ -144,22 +144,22 @@
           <!-- Название языка -->
           <text x='50' y='32' font-size='18' font-weight='600' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#E6EDF3'>Python</text>
+                fill='#E6EDF3'>Swift</text>
           
           <!-- Размер -->
           <text x='280' y='32' font-size='14' font-weight='400' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#8B949E' opacity='0.8'>265 KB</text>
+                fill='#8B949E' opacity='0.8'>277 KB</text>
           
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>39.4%</text>
+                fill='#A177FF'>30.3%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='192.34950108409467' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='147.65442411314353' height='3' 
                 fill='#A177FF' opacity='0.8' />
         </g>
         
@@ -177,22 +177,22 @@
           <!-- Название языка -->
           <text x='50' y='32' font-size='18' font-weight='600' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#E6EDF3'>Swift</text>
+                fill='#E6EDF3'>Python</text>
           
           <!-- Размер -->
           <text x='280' y='32' font-size='14' font-weight='400' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#8B949E' opacity='0.8'>185 KB</text>
+                fill='#8B949E' opacity='0.8'>265 KB</text>
           
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>27.6%</text>
+                fill='#A177FF'>29.0%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='134.60390099812224' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='141.40861430778378' height='3' 
                 fill='#3B82F6' opacity='0.8' />
         </g>
         
@@ -215,17 +215,17 @@
           <!-- Размер -->
           <text x='280' y='32' font-size='14' font-weight='400' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#8B949E' opacity='0.8'>132 KB</text>
+                fill='#8B949E' opacity='0.8'>141 KB</text>
           
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>19.6%</text>
+                fill='#A177FF'>15.4%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='95.85831979122646' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='75.09143106664061' height='3' 
                 fill='#10B981' opacity='0.8' />
         </g>
         
@@ -243,22 +243,22 @@
           <!-- Название языка -->
           <text x='50' y='32' font-size='18' font-weight='600' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#E6EDF3'>HTML</text>
+                fill='#E6EDF3'>Dart</text>
           
           <!-- Размер -->
           <text x='280' y='32' font-size='14' font-weight='400' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#8B949E' opacity='0.8'>51 KB</text>
+                fill='#8B949E' opacity='0.8'>136 KB</text>
           
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>7.6%</text>
+                fill='#A177FF'>14.9%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='37.1063777877498' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='72.71512655193877' height='3' 
                 fill='#F59E0B' opacity='0.8' />
         </g>
         
@@ -276,22 +276,22 @@
           <!-- Название языка -->
           <text x='50' y='32' font-size='18' font-weight='600' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#E6EDF3'>CSS</text>
+                fill='#E6EDF3'>HTML</text>
           
           <!-- Размер -->
           <text x='280' y='32' font-size='14' font-weight='400' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#8B949E' opacity='0.8'>32 KB</text>
+                fill='#8B949E' opacity='0.8'>54 KB</text>
           
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>4.7%</text>
+                fill='#A177FF'>5.9%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='23.055151591723995' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='28.91266010499108' height='3' 
                 fill='#EF4444' opacity='0.8' />
         </g>
         
@@ -309,22 +309,22 @@
           <!-- Название языка -->
           <text x='50' y='32' font-size='18' font-weight='600' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#E6EDF3'>Shell</text>
+                fill='#E6EDF3'>CSS</text>
           
           <!-- Размер -->
           <text x='280' y='32' font-size='14' font-weight='400' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#8B949E' opacity='0.8'>4 KB</text>
+                fill='#8B949E' opacity='0.8'>32 KB</text>
           
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>0.6%</text>
+                fill='#A177FF'>3.5%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='3.0261126674247345' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='16.94933972205229' height='3' 
                 fill='#EC4899' opacity='0.8' />
         </g>
         
@@ -347,17 +347,17 @@
           <!-- Размер -->
           <text x='280' y='32' font-size='14' font-weight='400' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#8B949E' opacity='0.8'>3 KB</text>
+                fill='#8B949E' opacity='0.8'>10 KB</text>
           
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>0.4%</text>
+                fill='#A177FF'>1.1%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='2.0006360796580855' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='5.268404133449919' height='3' 
                 fill='#8B5CF6' opacity='0.8' />
         </g>
         
