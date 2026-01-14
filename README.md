@@ -48,7 +48,7 @@ class SoftwareEngineer:
             "languages": ["Python", "Go", "C++", "JS"],
             "frameworks": ["FastAPI", "Django", "Flask"],
             "databases": ["PostgreSQL", "Redis", "SQLite"],
-            "devops": ["Docker", "K8s", "Nginx", "Linux"],
+            "devops": ["Docker", "Nginx", "Linux"],
             "currently_learning": ["Kubernetes", "gRPC"]
         }
 
@@ -95,7 +95,6 @@ me.say_hi()
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-DC143C?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-DC143C?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Nginx-DC143C?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <img src="https://img.shields.io/badge/Linux-DC143C?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
@@ -106,18 +105,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GitHub-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-DC143C?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Bash-DC143C?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-</p>
-
-<!-- GitHub Stats Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
-</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=n1x9s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&ring_color=DC143C" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=n1x9s&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=FF4444&currStreakLabel=DC143C&sideNums=FF4444&currStreakNum=FF4444&dates=c9d1d9&sideLabels=DC143C" alt="GitHub Streak" />
 </p>
 
 <!-- Language Analytics Section -->
