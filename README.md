@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=n1x9s&label=Profile%20Views&color=FFFFFF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/n1x9s?label=Followers&style=for-the-badge&color=FFFFFF" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=n1x9s&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/n1x9s?label=Followers&style=for-the-badge&color=000000" alt="Followers"/>
 </p>
 
 <!-- About Me Section -->
