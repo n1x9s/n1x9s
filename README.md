@@ -71,40 +71,40 @@ me.say_hi()
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-FFFFFF?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-FFFFFF?style=for-the-badge&logo=go&logoColor=black" alt="Go"/>
+  <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 <h3 align="center">Backend & Frameworks</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django_REST-FFFFFF?style=for-the-badge&logo=django&logoColor=white" alt="DRF"/>
+  <img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=black" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=django&logoColor=black" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django_REST-FFFFFF?style=for-the-badge&logo=django&logoColor=black" alt="DRF"/>
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=black" alt="Redis"/>
+  <img src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=black" alt="SQLite"/>
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 <h3 align="center">Tools & Others</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Bash-FFFFFF?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=black" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Bash-FFFFFF?style=for-the-badge&logo=gnubash&logoColor=black" alt="Bash"/>
 </p>
 
 <!-- Language Analytics Section -->
