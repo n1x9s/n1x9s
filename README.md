@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/n1x9s"><img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://instagram.com/n1x9s"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/n1x9s"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/n1x9s"><img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <a href="https://t.me/n1x9s"><img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"/></a>
+  <a href="https://instagram.com/n1x9s"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/n1x9s"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+  <a href="https://x.com/n1x9s"><img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=X&logoColor=black" alt="X"/></a>
 </p>
 
 <p align="center">
@@ -149,9 +149,9 @@ me.say_hi()
 
 | Project | Description | Tech |
 |:-------:|:-----------:|:----:|
-| **Continental Custom** | Delivery platform with Telegram Mini App | ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-FFFFFF?style=flat-square&logo=fastapi&logoColor=white) |
-| **Butter Club** | E-commerce platform for products | ![Django](https://img.shields.io/badge/Django-FFFFFF?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=white) |
-| **Microservices Migration** | Transforming monolithic apps | ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/K8s-FFFFFF?style=flat-square&logo=kubernetes&logoColor=white) |
+| **Continental Custom** | Delivery platform with Telegram Mini App | ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-FFFFFF?style=flat-square&logo=fastapi&logoColor=black) |
+| **Butter Club** | E-commerce platform for products | ![Django](https://img.shields.io/badge/Django-FFFFFF?style=flat-square&logo=django&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=black) |
+| **Microservices Migration** | Transforming monolithic apps | ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=black) ![K8s](https://img.shields.io/badge/K8s-FFFFFF?style=flat-square&logo=kubernetes&logoColor=black) |
 
 </div>
 
@@ -181,7 +181,7 @@ me.say_hi()
 
 <p align="center">
   <a href="https://github.com/n1x9s">
-    <img src="https://img.shields.io/badge/Made%20with-Love-FFFFFF?style=for-the-badge&logo=heart&logoColor=white" alt="Made with Love"/>
+    <img src="https://img.shields.io/badge/Made%20with-Love-FFFFFF?style=for-the-badge&logo=heart&logoColor=black" alt="Made with Love"/>
   </a>
 </p>
 
