@@ -56,7 +56,7 @@
   
             <circle cx='450' cy='300' r='200' fill='none' stroke='#A177FF' stroke-width='54'
                     stroke-linecap='round'
-                    stroke-dasharray='436.859 1256.637'
+                    stroke-dasharray='487.713 1256.637'
                     stroke-dashoffset='0.000'
                     opacity='0.3' filter='url(#glow)' />
 
@@ -64,38 +64,38 @@
   
         <circle cx='450' cy='300' r='200' fill='none' stroke='#A177FF' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='436.859 1256.637'
+                stroke-dasharray='487.713 1256.637'
                 stroke-dashoffset='0.000'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#3B82F6' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='336.351 1256.637'
-                stroke-dashoffset='-443.142'
+                stroke-dasharray='314.932 1256.637'
+                stroke-dashoffset='-493.996'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#10B981' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='211.950 1256.637'
-                stroke-dashoffset='-785.776'
+                stroke-dasharray='198.308 1256.637'
+                stroke-dashoffset='-815.211'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#F59E0B' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='146.423 1256.637'
-                stroke-dashoffset='-1004.010'
+                stroke-dasharray='136.876 1256.637'
+                stroke-dashoffset='-1019.802'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#EF4444' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='79.345 1256.637'
-                stroke-dashoffset='-1156.715'
+                stroke-dasharray='73.992 1256.637'
+                stroke-dashoffset='-1162.962'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#EC4899' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='0.394 1256.637'
-                stroke-dashoffset='-1242.344'
+                stroke-dasharray='0.000 1256.637'
+                stroke-dashoffset='-1243.237'
                 opacity='0.9' />
         <circle cx='450' cy='300' r='200' fill='none' stroke='#8B5CF6' stroke-width='50'
                 stroke-linecap='round'
-                stroke-dasharray='1.333 1256.637'
-                stroke-dashoffset='-1249.021'
+                stroke-dasharray='0.857 1256.637'
+                stroke-dashoffset='-1249.497'
                 opacity='0.9' />
 
   <!-- Внутренний круг с градиентом -->
@@ -149,17 +149,17 @@
           <!-- Размер -->
           <text x='280' y='32' font-size='14' font-weight='400' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#8B949E' opacity='0.8'>277 KB</text>
+                fill='#8B949E' opacity='0.8'>329 KB</text>
           
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>35.3%</text>
+                fill='#A177FF'>39.3%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='172.0889532612131' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='191.83747041401136' height='3' 
                 fill='#A177FF' opacity='0.8' />
         </g>
         
@@ -187,12 +187,12 @@
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>27.3%</text>
+                fill='#A177FF'>25.6%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='133.05784301282387' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='124.74001075535989' height='3' 
                 fill='#3B82F6' opacity='0.8' />
         </g>
         
@@ -220,12 +220,12 @@
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>17.4%</text>
+                fill='#A177FF'>16.3%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='84.74835813243942' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='79.45049209854335' height='3' 
                 fill='#10B981' opacity='0.8' />
         </g>
         
@@ -253,12 +253,12 @@
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>12.2%</text>
+                fill='#A177FF'>11.4%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='59.30144414663949' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='55.59433862119086' height='3' 
                 fill='#F59E0B' opacity='0.8' />
         </g>
         
@@ -286,12 +286,12 @@
           <!-- Процент -->
           <text x='495' y='32' text-anchor='end' font-size='20' font-weight='700' 
                 font-family='Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' 
-                fill='#A177FF'>6.8%</text>
+                fill='#A177FF'>6.4%</text>
           
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='33.25277170139537' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='31.174044353611034' height='3' 
                 fill='#EF4444' opacity='0.8' />
         </g>
         
@@ -324,7 +324,7 @@
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='2.5928442198049417' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='2.4307579962367907' height='3' 
                 fill='#EC4899' opacity='0.8' />
         </g>
         
@@ -357,7 +357,7 @@
           <!-- Прогресс бар -->
           <rect x='16' y='42' rx='2' ry='2' width='488' height='3' 
                 fill='#30363D' opacity='0.3' />
-          <rect x='16' y='42' rx='2' ry='2' width='2.957785525683811' height='3' 
+          <rect x='16' y='42' rx='2' ry='2' width='2.7728857610466995' height='3' 
                 fill='#8B5CF6' opacity='0.8' />
         </g>
         
