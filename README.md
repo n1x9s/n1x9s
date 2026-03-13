@@ -38,7 +38,7 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Nikita"
-        self.age = 20
+        self.age = 21
         self.location = "Moscow, Russia"
         self.role = "Backend Developer"
 
