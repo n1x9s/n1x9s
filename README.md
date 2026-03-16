@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+scalable+systems+with+Python;Passionate+about+microservices+%26+DevOps;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+high-performance+systems+with+Go;Passionate+about+microservices+%26+distributed+systems;Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
 
 <!-- Animated Line -->
@@ -34,30 +34,39 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Nikita"
-        self.age = 21
-        self.location = "Moscow, Russia"
-        self.role = "Backend Developer"
+```go
+package main
 
-    @property
-    def skills(self):
-        return {
-            "languages": ["Python", "Go", "C++", "JS"],
-            "frameworks": ["FastAPI", "Django", "Flask"],
-            "databases": ["PostgreSQL", "Redis", "SQLite"],
-            "devops": ["Docker", "Nginx", "Linux"],
-            "currently_learning": ["Kubernetes", "gRPC"]
-        }
+import "fmt"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build"
-              " something amazing together!")
+type SoftwareEngineer struct {
+	Name     string
+	Age      int
+	Location string
+	Role     string
+}
 
-me = SoftwareEngineer()
-me.say_hi()
+func (e *SoftwareEngineer) Skills() map[string][]string {
+	return map[string][]string{
+		"languages":  {"Go", "C++", "Python", "JS"},
+		"frameworks": {"Gin", "Echo", "Fiber", "REST API"},
+		"databases":  {"PostgreSQL", "Redis", "MongoDB"},
+		"devops":     {"Docker", "Docker Compose", "Nginx", "Linux"},
+		"learning":   {"Kafka", "ClickHouse"},
+	}
+}
+
+func main() {
+	me := &SoftwareEngineer{
+		Name:     "Nikita",
+		Age:      21,
+		Location: "Moscow, Russia",
+		Role:     "Backend Developer",
+	}
+	fmt.Println("Thanks for dropping by! " +
+		"Let's build something amazing together!")
+	_ = me
+}
 ```
 
 <br clear="both"/>
@@ -71,30 +80,31 @@ me.say_hi()
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
   <img src="https://img.shields.io/badge/Go-FFFFFF?style=for-the-badge&logo=go&logoColor=black" alt="Go"/>
   <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 <h3 align="center">Backend & Frameworks</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=black" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=django&logoColor=black" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django_REST-FFFFFF?style=for-the-badge&logo=django&logoColor=black" alt="DRF"/>
+  <img src="https://img.shields.io/badge/Gin-FFFFFF?style=for-the-badge&logo=go&logoColor=black" alt="Gin"/>
+  <img src="https://img.shields.io/badge/Echo-FFFFFF?style=for-the-badge&logo=go&logoColor=black" alt="Echo"/>
+  <img src="https://img.shields.io/badge/Fiber-FFFFFF?style=for-the-badge&logo=go&logoColor=black" alt="Fiber"/>
+  <img src="https://img.shields.io/badge/REST_API-FFFFFF?style=for-the-badge&logo=openapiinitiative&logoColor=black" alt="REST API"/>
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=black" alt="Redis"/>
-  <img src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=black" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"/>
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-FFFFFF?style=for-the-badge&logo=docker&logoColor=black" alt="Docker Compose"/>
   <img src="https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black" alt="Nginx"/>
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
@@ -103,7 +113,7 @@ me.say_hi()
 <p align="center">
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=black" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Kafka-FFFFFF?style=for-the-badge&logo=apachekafka&logoColor=black" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Bash-FFFFFF?style=for-the-badge&logo=gnubash&logoColor=black" alt="Bash"/>
 </p>
 
@@ -149,9 +159,9 @@ me.say_hi()
 
 | Project | Description | Tech |
 |:-------:|:-----------:|:----:|
-| **Continental Custom** | Delivery platform with Telegram Mini App | ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-FFFFFF?style=flat-square&logo=fastapi&logoColor=black) |
-| **Butter Club** | E-commerce platform for products | ![Django](https://img.shields.io/badge/Django-FFFFFF?style=flat-square&logo=django&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=black) |
-| **Microservices Migration** | Transforming monolithic apps | ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=black) ![K8s](https://img.shields.io/badge/K8s-FFFFFF?style=flat-square&logo=kubernetes&logoColor=black) |
+| **Continental Custom** | Delivery platform with Telegram Mini App | ![Go](https://img.shields.io/badge/Go-FFFFFF?style=flat-square&logo=go&logoColor=black) ![REST](https://img.shields.io/badge/REST-FFFFFF?style=flat-square&logo=openapiinitiative&logoColor=black) |
+| **Butter Club** | E-commerce platform for products | ![Go](https://img.shields.io/badge/Go-FFFFFF?style=flat-square&logo=go&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=black) |
+| **Microservices Platform** | High-performance distributed services | ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=black) ![Compose](https://img.shields.io/badge/Compose-FFFFFF?style=flat-square&logo=docker&logoColor=black) |
 
 </div>
 
@@ -169,7 +179,7 @@ me.say_hi()
 
 <!-- Quote Section -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Leonardo%20da%20Vinci" alt="Quote"/>
 </p>
 
 <!-- Footer -->
