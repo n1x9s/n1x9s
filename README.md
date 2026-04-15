@@ -148,23 +148,6 @@ func main() {
   </picture>
 </p>
 
-<!-- Projects Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Current Projects
-</h2>
-
-<div align="center">
-
-| Project | Description | Tech |
-|:-------:|:-----------:|:----:|
-| **Continental Custom** | Delivery platform with Telegram Mini App | ![Go](https://img.shields.io/badge/Go-FFFFFF?style=flat-square&logo=go&logoColor=black) ![REST](https://img.shields.io/badge/REST-FFFFFF?style=flat-square&logo=openapiinitiative&logoColor=black) |
-| **Butter Club** | E-commerce platform for products | ![Go](https://img.shields.io/badge/Go-FFFFFF?style=flat-square&logo=go&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=black) |
-| **Microservices Platform** | High-performance distributed services | ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=black) ![Compose](https://img.shields.io/badge/Compose-FFFFFF?style=flat-square&logo=docker&logoColor=black) |
-
-</div>
-
 <!-- Goals Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
