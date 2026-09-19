@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://t.me/n1x9s"><img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"/></a>
   <a href="https://instagram.com/n1x9s"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/n1x9s"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/sergeevNikita"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
   <a href="https://x.com/n1x9s"><img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=X&logoColor=black" alt="X"/></a>
 </p>
 
